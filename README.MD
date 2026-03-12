@@ -43,6 +43,7 @@ Esta organización permite mantener el código **ordenado, modular y fácil de m
 ---
 
 ## 📁 Estructura del Proyecto
+```
 PARCIAL1/
 │
 ├── index.html
@@ -64,7 +65,7 @@ PARCIAL1/
     └── models/
         ├── modelsEjercicio1.js
         └── modelsEjercicio2.js
-
+```
 
 ---
 
@@ -100,10 +101,10 @@ Contiene la **gestión de datos y flujo del programa**, utilizando variables, ci
 
 ## ▶️ Cómo Ejecutar el Proyecto
 
-## ▶️ Cómo Ejecutar el Proyecto
-
 1. Clonar el repositorio:
+```bash
 git clone https://github.com/svengc/parcial1web1.git
+```
 2. Abrir la carpeta del proyecto.
 3. Ejecutar el archivo:
 index.html
