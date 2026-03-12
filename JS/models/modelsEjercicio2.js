@@ -34,7 +34,7 @@ while (true) {
     }
 }
 
-let promedioBPM = sumaBPM / contadorLecturas;
+let promedioBPM = calculoPromedioBPM(sumaBPM, contadorLecturas);
 console.log("===== INFORME DE RITMO CARDIACO =====");
 console.log("Número total de lecturas: " + contadorLecturas);
 console.log("Promedio de BPM: " + promedioBPM);
